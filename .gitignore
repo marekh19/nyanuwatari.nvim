@@ -1,0 +1,11 @@
+# Neovim / Lua
+*.luac
+.luarc.json
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Build artifacts (extras/ are committed; build deps are not)
+.deps/
