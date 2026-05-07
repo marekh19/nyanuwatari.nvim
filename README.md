@@ -1,6 +1,6 @@
 # nyanuwatari
 
-A dark Neovim colorscheme by [Marek Honzal](https://github.com/marekh19).
+A dark Neovim colorscheme.
 
 ## The story
 
@@ -9,6 +9,8 @@ A fusion of two ideas. The charcoal background is inspired by **Susuwatari** —
 It's a **cyan / pink / violet / yellow**-oriented colorscheme. No greens for syntax (just my weird taste — green is reserved strictly for diff-add, git-add, and string escape edge cases where "addition / success" semantics are unambiguous).
 
 Five-hue chromatic palette at 190° · 275° · 328° · 20° · 50°, warm-biased, AAA contrast throughout.
+
+![nyanuwatari.nvim in action](static/showcase.png)
 
 ## Install
 
